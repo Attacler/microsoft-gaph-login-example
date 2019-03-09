@@ -1,6 +1,6 @@
 # microsoft-gaph-login-example
 Microsoft gaph login example with express and oauth2,
-This example uses Microsoft gaph.
+This example uses Microsoft gaph. https://developer.microsoft.com/en-us/graph
 
 # Setup
  0. get credentials from microsoft gaph - https://docs.microsoft.com/en-us/graph/auth-register-app-v2
@@ -16,3 +16,7 @@ This example uses Microsoft gaph.
  2. open localhost:3000 in your browser
  3. click on 'Click here to login' and login with a outlook/office account
  4. see what happends!
+
+# Note
+
+You can find the GET/POST urls from: https://developer.microsoft.com/en-us/graph/graph-explorer
