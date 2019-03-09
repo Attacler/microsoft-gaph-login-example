@@ -1,5 +1,6 @@
 # outlook-login-example
-outlook login example with express and oauth2
+Outlook login example with express and oauth2
+This example uses Microsoft gaph.
 
 # Setup
  0. get credentials from microsoft gaph - https://docs.microsoft.com/en-us/graph/auth-register-app-v2
