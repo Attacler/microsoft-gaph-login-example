@@ -1,0 +1,28 @@
+{
+  "name": "microsoft-graph-login-example",
+  "version": "1.0.0",
+  "description": "A example of allowing people to login trough outlook/exchange on your site.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "oath": "^1.0.0",
+    "oauth": "^0.9.15",
+    "node-uuid": "^1.4.8",
+    "superagent": "^4.1.0",
+    "express-session": "^1.15.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "microsoft",
+    "graph",
+    "login",
+    "express",
+    "express-session"
+  ],
+  "author": "Attacler",
+  "license": "MIT"
+}
