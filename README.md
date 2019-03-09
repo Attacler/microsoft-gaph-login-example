@@ -1,5 +1,5 @@
 # outlook-login-example
-Outlook login example with express and oauth2
+Outlook login example with express and oauth2,
 This example uses Microsoft gaph.
 
 # Setup
